@@ -1,2 +1,2 @@
-# fakepixels.github.io
+# Theses
 Thesis in development.

@@ -1,39 +1,7 @@
-# Balzac
+# THESES / SOFT PITCHES
 
-This is forked from [minimal mistakes](http://mademistakes.com). I needed some type of framework to build off as I have no experience with Jekyll. Michael set up an awesome dev environment for this which really helped speed up my progress. He also already wrote up an incredibly comprehensive readme.md so I basically copied all of it and replaced what was necessary. The design itself is my own and I cannot let you sell this or tweak the design for resale, unless I you [contact me](mailto:cole@coletownsend.com).
+This is forked from [minimal mistakes](http://mademistakes.com). 
 
-
-If you'd like give me credit somewhere on your blog or tweet a shout out to
-[@twnsndco](https://twitter.com/twnsndco), that would be pretty sweet. 
-
-If you feel like donating — [Give it a thought.](http://gtat.me/balzac/donate)
-
----
-
-
-![Balzac for Jekyll](http://cl.ly/Qdzo/Screen%20Shot%202013-08-05%20at%205.35.11%20PM.jpg)
-![Balzac for Jekyll](http://cl.ly/Qdyh/Screen%20Shot%202013-08-05%20at%205.30.01%20PM.jpg)
-
-## Features:
-- flexible, uses max-width for responsive goodness
-- responsive drop down menu
-- retina images using @2x
-- post loop in the footer showing 3 latest posts
-- custom portfolio page for case studies
-
-## Basic Setup
-
-1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
-2. Download this bad boy.
-3.  Fork the [Balzac repo](http://github.com/coletownsend/balzac-for-jekyll/)
-4. Twerk it out so it's just for you.
-5.  ???
-6.  Profit
-
-## [Preview the Theme](http://jekyll.gtat.me)
-=======
- [Preview the Theme](http://jekyll.gtat.me)
- 
 ``` bash
 balzac-for-jekyll/
 ├── _includes

@@ -1,4 +1,4 @@
-# THESES / SOFT PITCHES
+# THESES 
 
 This is forked from [minimal mistakes](http://mademistakes.com). 
 

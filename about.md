@@ -10,3 +10,6 @@ image:
 
 ### Why a page like this?
 * A Github page feels like a nice middle ground between a website (too complex for this use case) and Google Docs (not enough features sets). I don't want to host these thinking on my personal website because it feels like personal branding. Plus, it's free. 
+
+###
+

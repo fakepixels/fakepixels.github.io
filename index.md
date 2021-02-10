@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "The Pitches"
+title: "Onging Themes"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
